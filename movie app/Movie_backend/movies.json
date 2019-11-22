@@ -1,0 +1,104 @@
+{
+  "fileType": "JSON",
+  "description": "Movies List",
+  "rows": [
+    {
+      "2019": {
+        "movies": [
+          {
+            "movieId": 1,
+            "title": "Joker",
+            "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "rating": 8.8,
+            "languageIDs": ["English"],
+            "genres": ["Drama", "Thriller"]
+          },
+          {
+            "movieId": 4,
+            "title": "Avengers: End Game",
+            "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+            "rating": 8.5,
+            "languageIDs": ["English", "Hindi", "Telugu", "French", "Chinese", "German"],
+            "genres": ["Sci-Fi", "Fantasy"]
+          }
+        ]
+      },
+      "2018": {
+        "movies": [
+          {
+            "movieId": 2,
+            "title": "Avengers: Infinity War",
+            "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "rating": 8.3,
+            "languageIDs": ["English", "Hindi", "Telugu", "French", "Chinese", "German"],
+            "genres": ["Sci-Fi", "Fantasy"]
+          },
+          {
+            "movieId": 3,
+            "title": "Thor: Ragnarok",
+            "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+            "rating": 7.5,
+            "languageIDs": ["English", 2],
+            "genres": ["Sci-Fi", "Fantasy"]
+          },
+          {
+            "movieId": 5,
+            "title": "Bohemian Rhapsody",
+            "description": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+            "rating": 8,
+            "languageIDs": ["English"],
+            "genres": ["Drama", "Biography"]
+          }
+        ]
+      },
+      "2017": {
+        "movies": [
+          {
+            "movieId": 6,
+            "title": "The Maze Runner",
+            "description": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
+            "rating": 7.1,
+            "languageIDs": ["English"],
+            "genres": ["Sci-Fi"]
+          }
+        ]
+      },
+      "2016": {
+        "movies": [
+          {
+            "movieId": 7,
+            "title": "Deadpool",
+            "description": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "rating": 7.6,
+            "languageIDs": ["English"],
+            "genres": ["Sci-Fi", "Action"]
+          },
+          {
+            "movieId": 8,
+            "title": "Star Wars: The Force Awakens",
+            "description": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+            "rating": 7.4,
+            "languageIDs": ["English"],
+            "genres": ["Sci-Fi", "Fantasy"]
+          },
+          {
+            "movieId": 9,
+            "title": "Doctor Strange",
+            "description": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+            "rating": 7.4,
+            "languageIDs": ["English"],
+            "genres": ["Sci-Fi", "Fantasy"]
+          },
+          {
+            "movieId": 10,
+            "title": "Batman v Superman: Dawn of Justice",
+            "description": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+            "rating": 5.8,
+            "languageIDs": ["English"],
+            "genres": ["Sci-Fi", "Fantasy"]
+          }
+        ]
+      }
+    }
+  ]
+}
